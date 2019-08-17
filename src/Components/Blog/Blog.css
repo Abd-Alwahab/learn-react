@@ -1,0 +1,9 @@
+.blog {
+    padding: 5rem 0;
+}
+
+.blog__posts {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
